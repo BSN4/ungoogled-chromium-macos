@@ -1,4 +1,4 @@
-name: Build macOS binaries of Ungoogled Chromium 2
+name: Build macOS binaries of Ungoogled Chromium
 on:
   workflow_dispatch:
   push:
